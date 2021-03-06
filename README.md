@@ -1,5 +1,5 @@
 # Franken
-Franken Stratasys Dimension 1200es 3D printer   
+Franken Stratasys Dimension 1200es   
 Complete overhaul, replacing the Hotend, Stepper Motors, Stepper drivers, Motherboard, Power, you mane it. 
 
 
@@ -8,6 +8,11 @@ strata large image.png![image](https://user-images.githubusercontent.com/1817581
 Powered by a SKR 1.4 Turbo with TMC 2209 Stepper Motor Drivers  
 BLT Touch for Bed leveling  
 MicrSwiss DirectDrive HotEnd  
+Cr-10 Heated Glass Bed  
+Optical Endstops
+MOSFET Protection
+
+
 
 
 test again  
