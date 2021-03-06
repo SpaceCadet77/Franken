@@ -8,10 +8,10 @@ strata large image.png![image](https://user-images.githubusercontent.com/1817581
 
 
 ## Components 
-*SKR 1.4 Turbo with TMC 2209 Stepper Motor Drivers  
-*BLT Touch for Bed leveling  
-*Micro Swiss Direct Drive Hot End  
-*Cr-10 Heated Glass Bed  
+* SKR 1.4 Turbo with TMC 2209 Stepper Motor Drivers  
+* BLT Touch for Bed leveling  
+* Micro Swiss Direct Drive Hot End  
+* Cr-10 Heated Glass Bed  
 *Optical Endstops  
 *MOSFET Protection :fire:
 *12V and 24V power supplies
