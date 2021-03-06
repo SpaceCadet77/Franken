@@ -9,7 +9,7 @@ Powered by a SKR 1.4 Turbo with TMC 2209 Stepper Motor Drivers
 BLT Touch for Bed leveling  
 MicrSwiss DirectDrive HotEnd  
 Cr-10 Heated Glass Bed  
-Optical Endstops
+Optical Endstops  
 MOSFET Protection
 
 
